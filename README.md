@@ -4,7 +4,7 @@ Create a new project with Next.js, TypeScript, Eslint, Prettier in just 1 second
 
 #### **Vercel Deploy: https://next-ts-eslint-prettier.vercel.app**
 
-![image](https://user-images.githubusercontent.com/70432453/176340063-944dbd4b-c5e0-4d7d-99a4-fab133cb122a.png)
+![image](https://user-images.githubusercontent.com/70432453/176340481-60fe2e7c-4c9a-43c5-a1f8-c8886c3461a6.png)
 
 ## **Some Features 📋**
 
